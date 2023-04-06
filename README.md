@@ -34,6 +34,6 @@
 ## What is merging/git merge? 
 - when you want to add you branch the the main branch you merge it using git merge 
 
-What is a Pull request?
+## What is a Pull request?
 
 - Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
